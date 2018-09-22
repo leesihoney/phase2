@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_name: MyString
+  last_name: MyString
+  unit: one
+  rank: MyString
+  ssn: MyString
+  active: false
+
+two:
+  first_name: MyString
+  last_name: MyString
+  unit: two
+  rank: MyString
+  ssn: MyString
+  active: false
